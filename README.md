@@ -1,6 +1,6 @@
 # ggpoker_brasil-challenge-IPMA
 
-This is a small API built for the "Desafui Prático - API de Previsão de Tempo (IPMA)" using Python with FastAPI.
+This is a small API built for the "Desafio Prático - API de Previsão de Tempo (IPMA)" using Python with FastAPI for GG Poker Brasil's Python Developer selection process.
 
 ## Installation
 This project needs the following things:
